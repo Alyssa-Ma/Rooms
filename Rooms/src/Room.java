@@ -1,6 +1,5 @@
 
 public class Room {
-	//test
 	Person occupant;
 	int xLoc,yLoc;
 	
@@ -21,5 +20,11 @@ public class Room {
 	{
 		occupant = null;
 	}
-	
+	/**[x][ ]
+	 * [ ][ ] EXAMPLE MAP
+	 * 
+	 * [x][ ]
+	 * ( )[ ] EXAMPLE PORTAL
+	 */
 }
+

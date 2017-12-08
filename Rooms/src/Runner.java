@@ -96,10 +96,9 @@ public class Runner {
 					return false;
 				}
 			default:
-				break;
+				return false;
 					
 		}
-		return true;
 	}
 	public static void gameOff()
 	{
