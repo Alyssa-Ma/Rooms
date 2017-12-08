@@ -1,5 +1,6 @@
 
 public class Room {
+	//test
 	Person occupant;
 	int xLoc,yLoc;
 	
