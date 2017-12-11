@@ -1,4 +1,4 @@
 
-public class Adolescence {
-
+public class Adolescence extends Room{
+	private 
 }
